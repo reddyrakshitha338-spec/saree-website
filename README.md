@@ -26,9 +26,6 @@ The Vastram House is a simple HTML-based saree business website created as a beg
 <img src="images/screenshot2.png" width="300">
 <img src="images/screenshot3.png" width="300">
 
-<img src="images/reviews.png" width="300">
-<img src="images/contact.png" width="300">
-
 ## How to Run
 
 1. Download the project files.
